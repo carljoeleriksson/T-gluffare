@@ -39,3 +39,26 @@ main h1{
 h3 {
 	font-weight: 300;
 }
+
+form .form-control {
+	margin: 0.4rem 0;
+}
+
+form .form-control label {
+	display: block;
+	font-size: 0.8rem;
+}
+
+form .form-control label.inline {
+	display: inline;
+}
+
+form .btn {
+	background-color: #9ae98e;
+	font-size: 1.7rem;
+	border-radius: 4px;
+}
+
+form .btn:hover {
+	background-color: #7abd70;
+}
