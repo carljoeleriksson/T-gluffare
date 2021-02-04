@@ -8,10 +8,15 @@ body {
 	align-items: center;
 	height: 100vh;
 	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 }
 
 main h1{
 	font-family: 'Potta One', cursive;
 	font-size: 4rem;
 	text-align: center;
+}
+
+h3 {
+	font-weight: 300;
 }
